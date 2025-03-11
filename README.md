@@ -3,7 +3,7 @@
 ## Data Cleaning Projects & Exploratory Data Analysis (EDA)
 Data cleaning project using MySQL to remove duplicates, standardize data, handle null values, and eliminate unnecessary rows/columns for improved data integrity in an extensive world layoff datasheet.
 
-## Restaurant Menu Cleaning
+## Restaurant Order Analysis
 Situation:
 Hired as a Data Analyst for a large restaurant that has diverse cuisines and options
 
